@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+img {
+    height: 100vh;
+    background-image: url('image/nightsky.png');
+    background-repeat : no-repeat;
+    background-size : cover;
+  }
+.content{
+    text-align: center;
+    font-size : 40px;
+    font-family: 'Song Myung', serif;
+}
